@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Raj 👋
 
-<!--
-**RajZinzuwadia/RajZinzuwadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | BCA Student
 
-Here are some ideas to get you started:
+I'm a first-year BCA student from Gujarat, India, interested in programming, software engineering and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- C Programming
+- HTML and CSS
+- JavaScript
+- Bootstrap
+- Git and GitHub
+
+### 💻 Interests
+- Software Engineering
+- Problem Solving
+- Web Development
+- Computer Science
+
+### 🚀 My Projects
+- TypeCraft – Typing Practice Platform (in development)
+- Personal Developer Portfolio (in development)
+
+### 🎯 My Goal
+To develop strong computer science fundamentals and become a skilled software engineer.
+
+### 🤝 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/raj-zinzuwadia-a0066744a)
+
+**Learn. Build. Improve.**
